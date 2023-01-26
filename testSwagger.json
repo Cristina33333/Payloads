@@ -1,8 +1,8 @@
 {
-    "url": "https://mytestbucket997686833627.s3.eu-central-1.amazonaws.com/test2.yaml",
+    "url": "https://github.com/Cristina33333/Payloads/blob/main/testSwaggerHTMLInjection.yaml",
     "urls": [
         {
-            "url": "https://mytestbucket997686833627.s3.eu-central-1.amazonaws.com/test2.yaml",
+            "url": "https://github.com/Cristina33333/Payloads/blob/main/testSwaggerHTMLInjection.yaml",
             "name": "TestIntigriti"
         }
     ]
