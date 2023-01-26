@@ -1,0 +1,9 @@
+{
+    "url": "https://mytestbucket997686833627.s3.eu-central-1.amazonaws.com/test2.yaml",
+    "urls": [
+        {
+            "url": "https://mytestbucket997686833627.s3.eu-central-1.amazonaws.com/test2.yaml",
+            "name": "TestIntigriti"
+        }
+    ]
+}
